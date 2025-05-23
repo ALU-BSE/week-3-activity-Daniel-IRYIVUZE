@@ -1,5 +1,3 @@
-# advanced-python-programming-week-3-exercise
-
 **Exercise Title:** Exploring the GitHub API with Your Code Editor
 
 **Objective:** To get familiar with the basics of making API requests and understanding API responses using either the HTTP Client in JetBrains IDEs or the REST Client extension in VS Code.
